@@ -6,6 +6,7 @@ templates
 models
 venv
 __pycache__
+.idea
 
 #aditional files
 *.session
