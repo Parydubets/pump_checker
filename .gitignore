@@ -1,0 +1,12 @@
+# JPEG
+.jpg
+
+#python folders
+templates
+venv
+__pycache__
+
+#aditional files
+.session
+.session-journal
+roma.py
