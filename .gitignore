@@ -1,12 +1,13 @@
 # JPEG
-.jpg
+*.jpg
 
 #python folders
 templates
+models
 venv
 __pycache__
 
 #aditional files
-.session
-.session-journal
+*.session
+*.session-journal
 roma.py
